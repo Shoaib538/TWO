@@ -40,6 +40,7 @@
           color:black;
           background-color:red;
         }
+      </style>  
     </head>  
     <body>
       <h1>Heading 1</h1>
